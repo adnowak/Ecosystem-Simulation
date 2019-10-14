@@ -1,0 +1,37 @@
+C:/Users/an121/Desktop/C#/Grass simulation/Grass simulation/bin/Debug/Grass simulation.exe.config
+C:/Users/an121/Desktop/C#/Grass simulation/Grass simulation/bin/Debug/Grass simulation.exe
+C:/Users/an121/Desktop/C#/Grass simulation/Grass simulation/bin/Debug/Grass simulation.pdb
+C:/Users/an121/Desktop/C#/Grass simulation/Grass simulation/obj/Debug/Grass simulation.csprojResolveAssemblyReference.cache
+C:/Users/an121/Desktop/C#/Grass simulation/Grass simulation/obj/Debug/Grass_simulation.Properties.Resources.resources
+C:/Users/an121/Desktop/C#/Grass simulation/Grass simulation/obj/Debug/Grass simulation.csproj.GenerateResource.Cache
+C:/Users/an121/Desktop/C#/Grass simulation/Grass simulation/obj/Debug/Grass simulation.exe
+C:/Users/an121/Desktop/C#/Grass simulation/Grass simulation/obj/Debug/Grass simulation.pdb
+C:/Users/an121/Desktop/C#/Grass simulation/Grass simulation/obj/Debug/Grass_simulation.Form1.resources
+C:/Users/an121/Desktop/Grass simulation/Grass simulation/bin/Debug/Grass simulation.exe.config
+C:/Users/an121/Desktop/Grass simulation/Grass simulation/bin/Debug/Grass simulation.exe
+C:/Users/an121/Desktop/Grass simulation/Grass simulation/bin/Debug/Grass simulation.pdb
+C:/Users/an121/Desktop/Grass simulation/Grass simulation/obj/Debug/Grass_simulation.Form1.resources
+C:/Users/an121/Desktop/Grass simulation/Grass simulation/obj/Debug/Grass_simulation.Properties.Resources.resources
+C:/Users/an121/Desktop/Grass simulation/Grass simulation/obj/Debug/Grass simulation.csproj.GenerateResource.cache
+C:/Users/an121/Desktop/Grass simulation/Grass simulation/obj/Debug/Grass simulation.exe
+C:/Users/an121/Desktop/Grass simulation/Grass simulation/obj/Debug/Grass simulation.pdb
+C:/Users/an121/Desktop/Grass simulation/Grass simulation/obj/Debug/Grass simulation.csprojAssemblyReference.cache
+C:/Users/an121/Desktop/Grass simulation/Grass simulation/obj/Debug/Grass simulation.csproj.CoreCompileInputs.cache
+/Users/Adam/Desktop/Rozwój/Programowanie/C#/Grass simulation/Grass simulation/bin/Debug/Grass simulation.exe.config
+/Users/Adam/Desktop/Rozwój/Programowanie/C#/Grass simulation/Grass simulation/bin/Debug/Grass simulation.exe
+/Users/Adam/Desktop/Rozwój/Programowanie/C#/Grass simulation/Grass simulation/bin/Debug/Grass simulation.pdb
+/Users/Adam/Desktop/Rozwój/Programowanie/C#/Grass simulation/Grass simulation/obj/Debug/Grass simulation.csprojAssemblyReference.cache
+/Users/Adam/Desktop/Rozwój/Programowanie/C#/Grass simulation/Grass simulation/obj/Debug/Grass_simulation.Form1.resources
+/Users/Adam/Desktop/Rozwój/Programowanie/C#/Grass simulation/Grass simulation/obj/Debug/Grass_simulation.Properties.Resources.resources
+/Users/Adam/Desktop/Rozwój/Programowanie/C#/Grass simulation/Grass simulation/obj/Debug/Grass simulation.csproj.GenerateResource.cache
+/Users/Adam/Desktop/Rozwój/Programowanie/C#/Grass simulation/Grass simulation/obj/Debug/Grass simulation.exe
+/Users/Adam/Desktop/Rozwój/Programowanie/C#/Grass simulation/Grass simulation/obj/Debug/Grass simulation.pdb
+Z:\Grass simulation\Grass simulation\bin\Debug\Grass simulation.exe.config
+Z:\Grass simulation\Grass simulation\bin\Debug\Grass simulation.exe
+Z:\Grass simulation\Grass simulation\bin\Debug\Grass simulation.pdb
+Z:\Grass simulation\Grass simulation\obj\Debug\Grass simulation.csprojAssemblyReference.cache
+Z:\Grass simulation\Grass simulation\obj\Debug\Grass_simulation.Form1.resources
+Z:\Grass simulation\Grass simulation\obj\Debug\Grass_simulation.Properties.Resources.resources
+Z:\Grass simulation\Grass simulation\obj\Debug\Grass simulation.csproj.GenerateResource.cache
+Z:\Grass simulation\Grass simulation\obj\Debug\Grass simulation.exe
+Z:\Grass simulation\Grass simulation\obj\Debug\Grass simulation.pdb
